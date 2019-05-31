@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## Workshop OMC para EBS y SOA
 
 You can use the [editor on GitHub](https://github.com/alvamich/OMC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previous requirements:
+Create a VCN in OCI
+Create a public and private key.
 
-### Markdown
+### Building EBS in OCI by creating a compute instance
+
+Click on the sandwish menu on the left, select Compute, and Instances. click on the botoom Create Instance.
+Fill the required form.
+Name your Instance: EBS_Yourname
+Click on the botoom Change Image Source.  Select Oracle Images and choose Oracle E-Business Suite 122.2.8 Demo Install Image.
+Add your SSH key and select the previous VCN that was created.Create the subnet compartment and subnet.
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
