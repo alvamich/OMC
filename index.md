@@ -8,12 +8,23 @@ Create a public and private key.
 
 ### Building EBS in OCI by creating a compute instance
 
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/compute-iaas/provision_ebs_on_single_node_on_oci/index.html
+
 Click on the sandwish menu on the left, select Compute, and Instances. click on the botoom Create Instance.
 Fill the required form.
 Name your Instance: EBS_Yourname
 Click on the botoom Change Image Source.  Select Oracle Images and choose Oracle E-Business Suite 122.2.8 Demo Install Image.
 Add your SSH key and select the previous VCN that was created.Create the subnet compartment and subnet.
 
+Check for the instructions
+
+Version Details
+Version: 1.0
+Release Date: 15/01/2019
+
+Oracle E-Business Suite 12.2.8
+Oracle Database 12.1.0.2
+Oracle Linux 7
 
 
 
